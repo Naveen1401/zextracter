@@ -1,7 +1,7 @@
 # zextracter (Zip extracter)
 
 ZExtracter is a small and easy online tool for extracting files from comprassed Zip file.
-It only suppors Zip files.
+It only supports Zip files.
 
 For extraction JsZip is used and Filesaver for saving files.
 
